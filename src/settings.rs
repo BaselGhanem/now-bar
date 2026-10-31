@@ -295,7 +295,7 @@ impl Default for Settings {
         Settings {
             enabled: true,
             autostart: true,
-            language: crate::i18n::LanguagePick::Auto,
+            language: crate::i18n::LanguagePick::English,
             hotkey_picker: Hotkey::WinAltN,
             hotkey_question: QuestionHotkey::WinAltC,
             tray_left_click: TrayClick::Picker,
