@@ -8,7 +8,7 @@
 
 A compact pill in your taskbar shows what's happening right now: your music, timers, live scores, Claude Code activity, and more. Click the pill to expand a detailed card.
 
-**[Download](https://github.com/nixesty/now-bar/releases/latest)** &nbsp;·&nbsp;
+**[Download / Build](#installation)** &nbsp;·&nbsp;
 [Features](#features) &nbsp;·&nbsp;
 [Installation](#installation) &nbsp;·&nbsp;
 [Build](#build)
@@ -66,7 +66,7 @@ The application supports **English and Turkish**. Change the language in **Setti
 
 <img src="assets/readme/setup.png" width="480" align="right" alt="Now Bar installer window">
 
-There is currently **no installer published for this fork**. The [upstream release](https://github.com/nixesty/now-bar/releases/latest) provides `nowbar-setup.exe`, but does not include this fork's changes. To run this fork specifically, [build it from source](#build).
+There is currently **no installer published for this fork**. The [original developer's release](https://github.com/nixesty/now-bar/releases/latest) provides `nowbar-setup.exe`, but does not include this fork's changes. To run this fork specifically, [build it from source](#build).
 
 The upstream installer does not require administrator privileges and installs by default to `%LOCALAPPDATA%\Programs\NowBar`. Its options include:
 
